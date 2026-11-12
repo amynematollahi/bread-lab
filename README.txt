@@ -1,1 +1,1 @@
-Bread Lab v2: photo attachments and side-by-side photo comparisons. Upload all files to your existing GitHub repository root, replacing same-named files. Existing bake records remain in local storage. Export JSON backups often; backups now include compressed photos. Avoid adding too many photos: browser local storage has a limited quota.
+Bread Lab v3: cache refresh and visible version indicator. Upload all files in this folder to the root of the existing GitHub repository. Keep existing iPhone records; export backups regularly.
